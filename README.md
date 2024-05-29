@@ -9,7 +9,7 @@ ReLu
 **Output layer**: 10
 SoftMax
 
-## Functions used for the neural network
+## Parameters
 
 **init_params()**: Initializes the neural network parameters with random values ​​between -0.5 and 0.5.
 
